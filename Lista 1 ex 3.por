@@ -12,7 +12,7 @@ programa
 		minutos = (totalsegundos%3600)/60
 		segundos = (totalsegundos%3600)%60
 
-		escreva ("O evento durou ",horas," horas, ",minutos," minutos e ",segundos," segundos!")
+		escreva ("O evento durou ",horas," hora(s), ",minutos," minutos e ",segundos," segundos!")
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -20,7 +20,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 84; 
+ * @POSICAO-CURSOR = 368; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

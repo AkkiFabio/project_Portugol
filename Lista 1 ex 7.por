@@ -5,7 +5,7 @@ programa
 	{
 	//!!!IMPORTANTE!!! ALTERAÇÃO NO ENUNCIADO: e = g ; ax + by = q ; dx + ey = w 
 		//7. Um sistema de equações lineares do tipo: 
-		// ax + by = q & dx + ey = w
+		// ax + by = q & dx + gy = w
 		// , pode ser resolvido segundo mostrado abaixo :
 		// x = (cg - bf) / (ag - bd)
 		// y = (af - cd) / (ag - bd)
@@ -21,7 +21,7 @@ programa
 		leia (c)
 		escreva("Digite o valor de d:\n")
 		leia (d)
-		escreva("Digite o valor de e:\n")
+		escreva("Digite o valor de g:\n")
 		leia (g)
 		escreva("Digite o valor de f:\n")
 		leia (f)
@@ -41,7 +41,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 121; 
+ * @POSICAO-CURSOR = 33; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
